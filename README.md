@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTZun97&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MTZun97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MTZun10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
