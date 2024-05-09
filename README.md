@@ -1,7 +1,6 @@
 # 👻 Moe Thiri Zun ![](https://komarev.com/ghpvc/?username=MTZun97)
 
 📖 Doctor of Philosophy in Energy Science - Kyoto University    
-📖 Master of Science in Financial Engineering - WorldQuant University   
 👩🏻‍🎓 Master of Energy Science - Kyoto University  
 👩🏻‍🎓 Master in Renewable Energy - University of Malaya  
 👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University  
