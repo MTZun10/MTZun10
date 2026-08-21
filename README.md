@@ -26,5 +26,4 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MTZun10&show_icons=true&theme=default)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MTZun10)
+![](https://github-readme-streak-stats-eight.vercel.app?user=MTZun10)
